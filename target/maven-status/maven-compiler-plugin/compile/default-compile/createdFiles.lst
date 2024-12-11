@@ -1,0 +1,9 @@
+br\com\mazzoni\dukemarket\javafx\PrimaryController.class
+br\com\mazzoni\dukemarket\javafx\SecondaryController.class
+br\com\mazzoni\dukemarket\javafx\model\Produto.class
+br\com\mazzoni\dukemarket\javafx\controller\ScrProdutosController.class
+br\com\mazzoni\dukemarket\javafx\App.class
+module-info.class
+br\com\mazzoni\dukemarket\javafx\DAO\ProdutoDAO.class
+br\com\mazzoni\dukemarket\javafx\controller\MenuPrincipalController.class
+connection\MySQLConnection.class
